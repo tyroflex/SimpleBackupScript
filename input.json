@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "directory": "DIRECTORY-HERE",
+      "key": "AMAZON-KEY-PREFIX-HERE",
+      "season": "1",
+      "filetype": "video/x-matroska",
+      "s3class": "DEEP_GLACIER",
+      "name": "TASK-NAME",
+      "start": "EPISODE-COUNT-START"
+    }
+  ]
+}
